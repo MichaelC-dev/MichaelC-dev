@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**MichaelC-dev/MichaelC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at **Macquarie University** with a strong interest in backend development, systems engineering, and distributed systems.
 
-Here are some ideas to get you started:
+I enjoy building reliable software, exploring how large-scale systems operate, and learning about the underlying principles that make modern computing work. Beyond software engineering, I have a keen interest in security, research-oriented software development, and theoretical computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Interested In
+
+* Backend Development
+* Systems Engineering
+* Distributed Systems
+* Security & Secure Software Design
+
+## Technologies & Languages
+The languages I frequently work with include:
+
+`Python` `Java` `Rust` `PHP` `C` `JavaScript` `SQL`
+
+And I have experience with:
+
+`AWS` `LAMP` `Linux` `PostgreSQL` `REST APIs` `WebSockets` `Hugging Face`
+
+## Currently
+
+* Exploring distributed systems and scalable backend architectures
+* Learning more about [programming language design and development](https://www.github.com/MichaelC-dev/qlang)
+* Building projects that combine performance, reliability, and maintainability
+
+## Philosophy
+
+I enjoy understanding not just *how* software works, but *why* it works. Whether it's backend infrastructure, operating systems, programming languages, or distributed computing, I'm always looking for new opportunities to deepen my understanding and build systems that solve interesting problems.
+
+📫 Feel free to explore my repositories and connect with me through GitHub.
