@@ -28,6 +28,6 @@ And I have experience with:
 
 ## Philosophy
 
-I enjoy understanding not just *how* software works, but *why* it works. Whether it's backend infrastructure, operating systems, programming languages, or distributed computing, I'm always looking for new opportunities to deepen my understanding and build systems that solve interesting problems.
+I'm interested in *why* software works. Whether it's backend infrastructure, operating systems, programming languages, or distributed computing, I'm always looking for new opportunities to deepen my understanding, and build systems that solve interesting problems.
 
 📫 Feel free to explore my repositories and connect with me through GitHub.
